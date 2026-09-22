@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JimFitBaseURL</key>
+	<string>https://jimfit.app</string>
+	<key>NSCameraUsageDescription</key>
+	<string>JimFit uses the camera so you can take progress photos and photos of your meals.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>JimFit lets you choose photos from your library for progress pictures and meal logs.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>JimFit uses the microphone when you log workouts or meals by voice.</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>Background</string>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
